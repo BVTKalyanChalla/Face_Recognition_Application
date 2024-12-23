@@ -103,9 +103,6 @@ Optimize facial landmark extraction for real-time performance.
 
 Enhance the UI for a smoother user experience.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments
 
